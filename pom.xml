@@ -3,11 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>89f849ee-c0c4-43ae-ad48-a5189f00d31a</groupId>
-	<artifactId>maven-demo-poc-2</artifactId>
+	<artifactId>jenkins-pipeline-demo</artifactId>
 	<version>1.0.0</version>
 	<packaging>mule-application</packaging>
 
-	<name>maven-demo-poc-2</name>
+	<name>jenkins-pipeline-demo</name>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
